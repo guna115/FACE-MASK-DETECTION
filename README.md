@@ -16,4 +16,6 @@ The main goal of this project is to ensure public safety by encouraging mask com
 ## Technologies Used
 - Python
 ## how to excute 
+use your data file path in your code and run all the code
+1. it will access your camera and detect the mask 
 
